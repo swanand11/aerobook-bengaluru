@@ -57,6 +57,7 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        'sky-blue': "hsl(var(--sky-blue))",
       },
       borderRadius: {
         lg: "var(--radius)",
